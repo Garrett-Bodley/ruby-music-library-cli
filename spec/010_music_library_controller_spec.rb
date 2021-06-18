@@ -64,3 +64,4 @@ describe "MusicLibraryController" do
     end
   end
 end
+
